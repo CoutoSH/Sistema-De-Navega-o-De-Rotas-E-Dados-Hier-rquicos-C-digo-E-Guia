@@ -1,4 +1,3 @@
-"""
 # ---------- Remove ----------
 def remove(self, key: Any) -> None:
 self.root = self._remove(self.root, key)
