@@ -1,4 +1,3 @@
-"""
 g = city.graph
 while True:
 print(f"\nEditing graph of {city.name} (ID {city.city_id})")
